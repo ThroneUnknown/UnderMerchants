@@ -1,0 +1,1856 @@
+[
+    {
+        "NAME": "Becket",
+        "LOCATION": "Free Drones Base",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Blueprint: Contaminated Bullets",
+            "Blueprint: Incendiary Launcher Grenades",
+            "Nail Bombs",
+            "Firecracker Cap",
+            "Launcher Grenade Strap Belt",
+            "Random Blueprints"
+        ],
+        "BUYING": [
+            "Belts",
+            "Blueprints",
+            "Bolts of cloth",
+            "Foodstuffs",
+            "Grenades",
+            "Leather armors",
+            "Medicines",
+            "Plants and fungi",
+            "Bullets (always)",
+            "Luxury Items (Always)"
+        ],
+        "SPECIAL": [
+            "Crawler Poison Caltrops",
+            "Crawler Poison Throwing Knife",
+            "Boxing Gloves",
+            "Acid Collector",
+            "Incendiary Collector",
+            "Chemicals",
+            "Medicines"
+        ],
+        "MONEY": [
+            350
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Blaine",
+        "LOCATION": "Under-passages",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Blueprint: Lockpicks",
+            "Blueprint: Tabi Boots",
+            "Can potentially sell all non-unique Blueprints",
+            "Knife Thrower's Glove",
+            "Tabi Boots"
+        ],
+        "BUYING": [
+            "Balaclavas",
+            "Firearms",
+            "Grenades",
+            "Melee weapons",
+            "Bullets (always)"
+        ],
+        "SPECIAL": [
+            "Firecracker Cap",
+            "Frag Grenades Mk III",
+            "EMP Grenades",
+            "Flashbangs",
+            "Balaclavas",
+            "Random components",
+            "Traps"
+        ],
+        "MONEY": [
+            100,
+            250
+        ],
+        "CURRENCIES": [
+            " SGS Credits",
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Booth",
+        "LOCATION": "Core City Sewers",
+        "CATEGORY": "Hunting supplies",
+        "SELLING": [
+            "Blueprint: Bear Trap",
+            "Blueprint: Throwing Knives",
+            "Blueprint: Throwing Net",
+            "Leathers"
+        ],
+        "BUYING": [
+            "Medicines",
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            200
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Fraser",
+        "LOCATION": "Fort Apogee",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Blueprint: Cluster Launcher Grenades",
+            "Blueprint: Micro-Shrapnel Bullets",
+            "Blueprint: Grenade Launcher",
+            "Blueprint: Light Machine Gun",
+            "Blueprint: Minigun",
+            "Blueprint: W2C Bullets",
+            "Protectorate Firearm Omnilube",
+            "Random Blueprints"
+        ],
+        "BUYING": [
+            "Boots",
+            "Firearms",
+            "Grenades",
+            "Helmets",
+            "Metal armors",
+            "Raw explosives",
+            "Riot armor sets",
+            "Tactical vests",
+            "Bullets, shells or launcher grenades (always)"
+        ],
+        "SPECIAL": [
+            "3p Tungsten Shotgun Shells",
+            "Flashbangs",
+            "Frag Grenade Mk IVs",
+            "HE Grenade Mk IVs",
+            "High Level armor parts",
+            "High Level firearm and crossbow frames"
+        ],
+        "MONEY": [
+            250
+        ],
+        "CURRENCIES": [
+            " United Stations Dollars"
+        ]
+    },
+    {
+        "NAME": "Harlan",
+        "LOCATION": "Core City",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Blueprint: Shock Bullets",
+            "Blueprint: Plasma Grenade",
+            "Blueprint: Plasma Mine",
+            "AI Scrambler",
+            "Energy Edge Emitters",
+            "Random Blueprints"
+        ],
+        "BUYING": [
+            "Batteries",
+            "Electronic devices",
+            "Electronic parts",
+            "Energy weapons",
+            "Pairs of goggles",
+            "Tactical vests"
+        ],
+        "SPECIAL": [
+            "5mm Shock Rounds",
+            "Blueprint: Energy Pistol",
+            "EMP Mine Mk II",
+            "EMP Grenade Mk II"
+        ],
+        "MONEY": [
+            400
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Kevin",
+        "LOCATION": "Foundry",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Blueprint: Balaclava",
+            "Blueprint: Frag Launcher Grenades",
+            "Blueprint: Grenade Launcher",
+            "Blueprint: High-explosive Launcher Grenades",
+            "Blueprint: Incendiary Bullets",
+            "Blueprint: Metal Armor",
+            "Blueprint: Metal Helmet",
+            "Blueprint: Riot Gear",
+            "Blueprint: Sniper Rifle",
+            "Blueprint: W2C Bullets",
+            "Blueprint: JHP Bullets"
+        ],
+        "BUYING": [
+            "Firearm parts",
+            "Firearms",
+            "Helmets",
+            "Melee weapons",
+            "Metal armors",
+            "Riot armor sets",
+            "Tactical vests",
+            "Bullets (always)",
+            "Regular bolts (always)"
+        ],
+        "SPECIAL": [
+            "Blueprint: Concussive Launcher Grenades",
+            "25mm Concussive Grenade",
+            "Frag Grenade Mk III",
+            "HE Grenade Mk III",
+            "Flashbang",
+            "Magnesium Grenade"
+        ],
+        "MONEY": [
+            350
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Len",
+        "LOCATION": "Junkyard",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Blueprint: Balaclava",
+            "Blueprint: Flashbang",
+            "Blueprint: Frag Mine Case",
+            "Blueprint: Light Machine Gun",
+            "Blueprint: Metal Armor",
+            "Blueprint: Metal Helmet",
+            "Blueprint: Riot Gear",
+            "Blueprint: Thin Mine Case",
+            "Lifting Belt",
+            "Groin Guard"
+        ],
+        "BUYING": [
+            "Balaclavas",
+            "Belts",
+            "Boot components",
+            "Boots",
+            "Firearm parts",
+            "Firearms",
+            "Helmets",
+            "Leather armors",
+            "Melee weapons",
+            "Metal armors",
+            "Riot armor sets",
+            "Tactical vests",
+            "Bullets (always)",
+            "Regular bolts (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            308
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Lieutenant Stratford",
+        "LOCATION": "Core City",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Blueprint: Explosive Bullets",
+            "Chemhaze Grenades",
+            "Random Blueprints"
+        ],
+        "BUYING": [
+            "Firearms",
+            "Melee weapons",
+            "Metal armors",
+            "Metal components",
+            "Pneumatic components",
+            "Bullets (always)"
+        ],
+        "SPECIAL": [
+            "Flashbangs",
+            "EMP Grenade Mk II",
+            "Blast Suit",
+            "Belts",
+            "High Level mines",
+            "High Level firearms"
+        ],
+        "MONEY": [
+            400
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Lucas",
+        "LOCATION": "South Gate Station",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Blueprint: Assault Rifle",
+            "Blueprint: Balaclava",
+            "Blueprint: Frag Grenade Case",
+            "Blueprint: Hand Grenade",
+            "Blueprint: Light Machine Gun",
+            "Blueprint: Mine",
+            "Blueprint: Pistol",
+            "Blueprint: SMG",
+            "Blueprint: Sniper Rifle",
+            "Blueprint: Tactical Vest",
+            "Blueprint: Thin Grenade Case"
+        ],
+        "BUYING": [
+            "Belts",
+            "Boots",
+            "Crossbow parts",
+            "Crossbows",
+            "Firearm parts",
+            "Firearms",
+            "Grenades",
+            "Helmets",
+            "Leather armors",
+            "Melee weapons",
+            "Riot armor sets",
+            "Tactical vests",
+            "Bullets (always)",
+            "Regular bolts (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            400
+        ],
+        "CURRENCIES": [
+            " SGS Credits"
+        ]
+    },
+    {
+        "NAME": "Ola",
+        "LOCATION": "Core City",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Blueprint: Acid Bullets",
+            "Hypno Goggles",
+            "Random Blueprints",
+            "Can potentially sell all non-unique Medicinal Blueprints"
+        ],
+        "BUYING": [
+            "Balaclavas",
+            "Boots",
+            "Crossbows",
+            "Firearms",
+            "Electronic devices",
+            "Electronic parts",
+            "Riot armor sets"
+        ],
+        "SPECIAL": [
+            "Balaclavas",
+            "Boots",
+            "Electronic devices",
+            "Incendiary Bolt MK II",
+            "Shock Bolt MK III",
+            "High Level armors",
+            "Tabi boots",
+            "High Level traps"
+        ],
+        "MONEY": [
+            400
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Oskar",
+        "LOCATION": "Core City",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "T.N.T.",
+            "Hexogen",
+            "Blueprint: Balaclava",
+            "Blueprint: Light Machine Gun",
+            "Blueprint: Metal Armor",
+            "Blueprint: Metal Helmet",
+            "Blueprint: Riot Gear",
+            "Blueprint: Sniper Rifle"
+        ],
+        "BUYING": [
+            "Firearm parts",
+            "Firearms",
+            "Grenades",
+            "Helmets",
+            "Melee weapons",
+            "Metal armors",
+            "Riot armor sets",
+            "Tactical vests",
+            "Bullets and shells (always)",
+            "Regular bolts (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            400
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Efreitor Hanna",
+        "LOCATION": "Institute of Tchort",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Random Blueprints"
+        ],
+        "BUYING": [
+            "Boots",
+            "Firearms",
+            "Grenades",
+            "Helmets",
+            "Metal armors",
+            "Raw explosives",
+            "Riot armor sets",
+            "Tactical vests",
+            "Bullets (always)"
+        ],
+        "SPECIAL": [
+            "Acid Vials",
+            "Incendiary Vials",
+            "Cryogel Vials",
+            "High Level armor parts",
+            "High Level firearm and crossbow frames",
+            "High Level mines"
+        ],
+        "MONEY": [
+            400
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Rassophore Prevlic",
+        "LOCATION": "Cytosine Outpost",
+        "CATEGORY": "Armory",
+        "SELLING": [
+            "Random Blueprints"
+        ],
+        "BUYING": [
+            "Boots",
+            "Firearms",
+            "Grenades",
+            "Helmets",
+            "Metal armors",
+            "Raw explosives",
+            "Riot armor sets",
+            "Tactical vests",
+            "Bullets (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            250
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Quinton",
+        "LOCATION": "South Gate Station",
+        "CATEGORY": "Biology",
+        "SELLING": [
+            "Blueprint: Chemical Bolt",
+            "Blueprint: Extract Humour",
+            "Blueprint: Gas Grenade",
+            "Blueprint: Incendiary Bolt",
+            "Blueprint: Incendiary Grenade",
+            "Blueprint: Leather Armor",
+            "Blueprint: Process Plant or Fungus",
+            "Blueprint: Psi Booster"
+        ],
+        "BUYING": [
+            "Blueprints",
+            "Chemicals",
+            "Medicines",
+            "Organs",
+            "Raw leathers",
+            "Special bolts"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            350
+        ],
+        "CURRENCIES": [
+            " SGS Credits"
+        ]
+    },
+    {
+        "NAME": "Investigator Vuk",
+        "LOCATION": "Institute of Tchort",
+        "CATEGORY": "Biology",
+        "SELLING": [
+            "Blueprint: Extract Humour",
+            "Blueprint: Process Plant or Fungus",
+            "Crawler Stinger",
+            "Burrower Poison Gland"
+        ],
+        "BUYING": [
+            "Blueprints",
+            "Chemicals",
+            "Organs"
+        ],
+        "SPECIAL": [
+            "Biofusive Scoby",
+            "Clean Blastema",
+            "Fusing Enzyme",
+            "Gizzard Enzymes",
+            "Prednisone Solution"
+        ],
+        "MONEY": [
+            200
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Fixer",
+        "LOCATION": "Junkyard",
+        "CATEGORY": "Chemical weaponry",
+        "SELLING": [
+            "Blueprint: Adrenaline Shot",
+            "Blueprint: Chemical Ammo",
+            "Blueprint: Chemical Blob Trap",
+            "Blueprint: Chemical Pistol",
+            "Blueprint: Extract Humour",
+            "Blueprint: Gas Grenade",
+            "Blueprint: Incendiary Grenade",
+            "Blueprint: Morphine Shot",
+            "Catalyzing Belt",
+            "Chemical Pistol Frame",
+            "Chemical Blob Dispenser",
+            "Acid Collector"
+        ],
+        "BUYING": [
+            "Chemical ammo",
+            "Chemical pistols",
+            "Chemicals",
+            "Medical components",
+            "Medicines",
+            "Organs",
+            "Psionic components",
+            "Psionic headbands"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            89
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Octavia",
+        "LOCATION": "Institute of Tchort",
+        "CATEGORY": "Chemicals",
+        "SELLING": [
+            "Blueprint: Chemical Ammo",
+            "Blueprint: Chemical Blob Trap",
+            "Blueprint: Chemical Bolt",
+            "Blueprint: Chemical Pistol",
+            "Blueprint: Gas Grenade",
+            "Blueprint: Incendiary Bolt",
+            "Blueprint: Incendiary Grenade"
+        ],
+        "BUYING": [
+            "Blueprints",
+            "Chemicals",
+            "Medical components",
+            "Medicines"
+        ],
+        "SPECIAL": [
+            "Corrosive Acid"
+        ],
+        "MONEY": [
+            250
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Buzzer",
+        "LOCATION": "Rail Crossing",
+        "CATEGORY": "Electronics",
+        "SELLING": [
+            "Blueprint: EMP Grenade",
+            "Blueprint: EMP Mine",
+            "Blueprint: Energy Pistol",
+            "Blueprint: Energy Shield Emitter"
+        ],
+        "BUYING": [
+            "Blueprints",
+            "Energy weapons",
+            "Firearms",
+            "Electronic devices",
+            "Electronic parts",
+            "Raw explosives",
+            "Batteries (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            200
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Ezra",
+        "LOCATION": "South Gate Station",
+        "CATEGORY": "Electronics",
+        "SELLING": [
+            "Blueprint: Cloaking Device",
+            "Blueprint: EMP Grenade",
+            "Blueprint: EMP Mine",
+            "Blueprint: Goggles",
+            "Blueprint: Psionic Headband",
+            "Blueprint: Taser"
+        ],
+        "BUYING": [
+            "Blueprints",
+            "Electronic devices",
+            "Electronic parts",
+            "Headgear components",
+            "Pairs of goggles",
+            "Psionic components",
+            "Psionic headbands",
+            "Batteries (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            500
+        ],
+        "CURRENCIES": [
+            " SGS Credits"
+        ]
+    },
+    {
+        "NAME": "Halim",
+        "LOCATION": "Core City",
+        "CATEGORY": "Electronics",
+        "SELLING": [
+            "Plasma Micro-dischargers",
+            "Blueprint: EMP Grenade",
+            "Blueprint: EMP Mine",
+            "Blueprint: Energy Shield Emitter",
+            "Blueprint: Plasma Mine \u00a0E"
+        ],
+        "BUYING": [
+            "Blueprints",
+            "Electronic devices",
+            "Electronic parts",
+            "Energy weapons",
+            "Batteries (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            300
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Katherine",
+        "LOCATION": "Junkyard",
+        "CATEGORY": "Electronics",
+        "SELLING": [
+            "Blueprint: EMP Mine",
+            "Blueprint: Energy Pistol",
+            "Blueprint: Recycle Item",
+            "Blueprint: Repair Kit",
+            "Blueprint: Shock Bolt",
+            "Blueprint: Taser"
+        ],
+        "BUYING": [
+            "Blueprints",
+            "Electronic devices",
+            "Electronic parts",
+            "Energy weapons",
+            "Headgear components",
+            "Pairs of goggles",
+            "Batteries (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            341
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Myles",
+        "LOCATION": "Rail Crossing",
+        "CATEGORY": "Electronics",
+        "SELLING": [
+            "Blueprint: EMP Grenade",
+            "Blueprint: EMP Mine"
+        ],
+        "BUYING": [
+            "Blueprints",
+            "Electronic devices",
+            "Electronic parts",
+            "Firearms",
+            "Raw explosives",
+            "Tactical vests",
+            "Batteries (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            200
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "West",
+        "LOCATION": "Foundry",
+        "CATEGORY": "Electronics",
+        "SELLING": [
+            "Blueprint: EMP Grenade",
+            "Blueprint: EMP Mine"
+        ],
+        "BUYING": [
+            "Blueprints",
+            "Electronic devices",
+            "Electronic parts",
+            "Energy weapons",
+            "Batteries (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            200
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Investigator Kiro",
+        "LOCATION": "Institute of Tchort",
+        "CATEGORY": "Electronics",
+        "SELLING": [
+            "Blueprint: EMP Grenade",
+            "Blueprint: EMP Mine",
+            "Psionic Mentor: Psi-cognitive Interruption"
+        ],
+        "BUYING": [
+            "Blueprints",
+            "Electronic devices",
+            "Electronic parts",
+            "Energy weapons",
+            "Psionic components",
+            "Batteries (always)"
+        ],
+        "SPECIAL": [
+            "Super Steel Sheet"
+        ],
+        "MONEY": [
+            300
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Arlene",
+        "LOCATION": "South Gate Station",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Psi Beetle Brain Soup"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            88
+        ],
+        "CURRENCIES": [
+            " SGS Credits"
+        ]
+    },
+    {
+        "NAME": "Barkeeper (Foundry)",
+        "LOCATION": "Foundry",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Random Foodstuffs"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Barkeeper (Rail Crossing)",
+        "LOCATION": "Rail Crossing",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Mushroom Brew",
+            "random Foodstuffs"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            80
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Case",
+        "LOCATION": "Fort Apogee",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Cave Hopper Steak",
+            "random Foodstuffs"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " United Stations Dollars"
+        ]
+    },
+    {
+        "NAME": "Darling",
+        "LOCATION": "Free Drones Base",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Hardcore Chips",
+            "Mushroom Brew",
+            "Rathound Barbecue",
+            "Root Soda"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            50
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Freddy",
+        "LOCATION": "Camp Hathor",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Random Foodstuffs",
+            "Pentapus",
+            "Walking Fish"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            54
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Gene",
+        "LOCATION": "Core City",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Hardcore Chips",
+            "Mushroom Brew",
+            "Core Chips",
+            "Root Soda",
+            "Cigar (rarely)"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Kareem",
+        "LOCATION": "Junkyard",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Burrower Burger",
+            "Cave Hopper Steak",
+            "Eel Sandwich",
+            "Rathound Barbecue",
+            "Junkyard Surprise",
+            "Pentapus",
+            "Walking Fish"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            54
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Moe",
+        "LOCATION": "Core City",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Under Pie Rare",
+            "Pickled Mindshrooms Rare"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            155
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Zilla",
+        "LOCATION": "Core City",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Rathound Barbecue More than 10"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            140
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Theodore",
+        "LOCATION": "Institute of Tchort",
+        "CATEGORY": "Food",
+        "SELLING": [
+            "Root Soda",
+            "Random foodstuffs"
+        ],
+        "BUYING": [
+            "Foodstuffs"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            155
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Bobby",
+        "LOCATION": "Foundry",
+        "CATEGORY": "General store",
+        "SELLING": [
+            "Random Blueprints",
+            "Aluminized Cloth",
+            "Black Cloth",
+            "Firecracker Cap"
+        ],
+        "BUYING": [
+            "Belts",
+            "Blueprints",
+            "Bolts of cloth",
+            "Foodstuffs",
+            "Leather armors",
+            "Medicines",
+            "Plants and fungi",
+            "Bullets (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            450
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Constantine",
+        "LOCATION": "Oculus",
+        "CATEGORY": "General store",
+        "SELLING": [
+            "Vanishing Powder Grenade",
+            "Old World Firearms, by Mikhail Browning",
+            "Blueprint: JHP Bullets",
+            "Blueprint: W2C Bullets",
+            "Blueprint: Minigun",
+            "Blueprint: Concussive Launcher Grenades",
+            "Blueprint: Thermobaric Launcher Grenades",
+            "Random Blueprints"
+        ],
+        "BUYING": [
+            "Batteries",
+            "Blueprints",
+            "Crossbows",
+            "Electronic parts",
+            "Energy weapons",
+            "Firearms",
+            "Riot armor sets",
+            "Tactical vests",
+            "Luxury Items (Always)"
+        ],
+        "SPECIAL": [
+            "Incendiary Vial",
+            "Cryogel Vial",
+            "Biohazard Boots",
+            "Random Belts",
+            "Random Medicines",
+            "Chemical Blob Trap ",
+            "Electronic parts (High Level: over 110 quality)",
+            "Random Psionic Mentors (Including rare ones like Psionic Mentor: Plasma Beam)"
+        ],
+        "MONEY": [
+            300
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Derica",
+        "LOCATION": "Core City",
+        "CATEGORY": "General store",
+        "SELLING": [
+            "Blueprint: Throwing Knives",
+            "Random Blueprints",
+            "Aluminized Cloth",
+            "Black Cloth"
+        ],
+        "BUYING": [
+            "Belts",
+            "Blueprints",
+            "Bolts of cloth",
+            "Crossbows",
+            "Foodstuffs",
+            "Leather armors",
+            "Medicines",
+            "Plants and fungi",
+            "Bullets (Always)",
+            "Luxury Items (Always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            550
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Lost Vault Trader",
+        "LOCATION": "Upper Caves",
+        "CATEGORY": "General store",
+        "SELLING": [
+            "Blueprint: Tabi Boots",
+            "Blueprint: Incendiary Bullets (rare)",
+            "Blueprint: Minigun (rare)",
+            "Firecracker Cap",
+            "Random Psionic Mentor",
+            "Cigar (rare)"
+        ],
+        "BUYING": [
+            "Bolts of cloth",
+            "Foodstuffs",
+            "Energy weapons",
+            "Medicines",
+            "Metal armors",
+            "Bullets (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            450
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Marty",
+        "LOCATION": "Upper Underrail",
+        "CATEGORY": "General store",
+        "SELLING": [
+            "Coal",
+            "Cryogel Vial",
+            "Liquid Nitrogen"
+        ],
+        "BUYING": [
+            "Firearms",
+            "Foodstuffs",
+            "Medicines",
+            "Bullets (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Big Bret",
+        "LOCATION": "South Gate Station",
+        "CATEGORY": "Hunting supplies",
+        "SELLING": [
+            "Blueprint: Boots",
+            "Blueprint: Combat Gloves",
+            "Blueprint: Throwing Net"
+        ],
+        "BUYING": [
+            "Plants and fungi"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " SGS Credits"
+        ]
+    },
+    {
+        "NAME": "Fredd",
+        "LOCATION": "Camp Hathor",
+        "CATEGORY": "Hunting supplies",
+        "SELLING": [
+            "Blueprint: Bear Trap",
+            "Blueprint: Gas Grenade",
+            "Blueprint: Serrated Bolt",
+            "Blueprint: Throwing Knives",
+            "Knife Thrower's Glove"
+        ],
+        "BUYING": [
+            "Bags of caltrops",
+            "Belts",
+            "Crossbows",
+            "Leather armors",
+            "Melee weapons",
+            "Raw leathers",
+            "Special bolts",
+            "Traps",
+            "Regular bolts (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Colton",
+        "LOCATION": "Junkyard",
+        "CATEGORY": "Junk",
+        "SELLING": [
+            "All sorts of ammo",
+            "Blueprint: Metal Armor",
+            "Blueprint: Metal Helmet",
+            "Random Blueprints",
+            "Plenty of components in the 25-60 quality range",
+            "A couple of weapons and armor",
+            "Some utilities and traps"
+        ],
+        "BUYING": [
+            "Armor parts",
+            "Firearm parts",
+            "Metal components",
+            "Repair kits",
+            "Suits"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            242
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Dirty Tom",
+        "LOCATION": "Core City",
+        "CATEGORY": "Junk",
+        "SELLING": [
+            "Random Blueprints",
+            "Blueprint: Bullets (Always)",
+            "Blueprint: Throwing Net (Always)",
+            "Firecracker Cap",
+            "Weapon enhancements",
+            "Mine Cases",
+            "Empty Bullet Cases, Shotgun Shells and Launcher Grenade Cases"
+        ],
+        "BUYING": [
+            "Crossbows",
+            "",
+            "Energy weapons",
+            "Firearms",
+            "Leather armors",
+            "Riot armor sets",
+            "Tactical vests"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            200
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Gort",
+        "LOCATION": "Junkyard",
+        "CATEGORY": "Junk",
+        "SELLING": [
+            "Blueprint: Hand Grenade",
+            "Blueprint: Mine",
+            "Blueprint: Sledgehammer",
+            "Random Blueprints"
+        ],
+        "BUYING": [
+            "Armor parts",
+            "Bags of caltrops",
+            "Crossbow parts",
+            "Firearm parts",
+            "Grenades",
+            "Metal components",
+            "Raw explosives",
+            "Suits",
+            "Traps"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            250
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Kendrick",
+        "LOCATION": "Junkyard",
+        "CATEGORY": "Junk",
+        "SELLING": [
+            "Blueprint: Bear Trap",
+            "Blueprint: Serrated Bolt",
+            "Blueprint: Throwing Knives"
+        ],
+        "BUYING": [
+            "Bags of caltrops",
+            "Belts",
+            "Leather armors",
+            "Melee weapons",
+            "Raw leathers",
+            "Special bolts",
+            "Traps",
+            "Regular bolts (always)"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            78
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Johan",
+        "LOCATION": "Junkyard",
+        "CATEGORY": "Junk",
+        "SELLING": [
+            "Electronic Repair Kits",
+            "Mechanical Repair Kits",
+            "Supercharged Lithium Cells",
+            "Starter Mixtures",
+            "Various components"
+        ],
+        "BUYING": [
+            "Armor parts",
+            "Batteries",
+            "Bolts of cloth",
+            "Metal components",
+            "Padding"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            84
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Old Jonas",
+        "LOCATION": "South Gate Station,Crossroad Watch",
+        "CATEGORY": "Junk",
+        "SELLING": [
+            "Bear Traps",
+            "Random Belts",
+            "Fishing Rod",
+            "Lockpicks"
+        ],
+        "BUYING": [
+            "Batteries",
+            "Lockpicking devices",
+            "Traps"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            58,
+            20
+        ],
+        "CURRENCIES": [
+            " SGS Credits",
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Leo",
+        "LOCATION": "Deep Caverns",
+        "CATEGORY": "Junk",
+        "SELLING": [
+            "Black Dragon Poison Bolt",
+            "Random miscellaneous items and components"
+        ],
+        "BUYING": [
+            "Foodstuffs (always)",
+            "Medicines",
+            "Organs",
+            "Plants and fungi",
+            "Raw leathers"
+        ],
+        "SPECIAL": [],
+        "MONEY": [],
+        "CURRENCIES": []
+    },
+    {
+        "NAME": "Bryan",
+        "LOCATION": "Foundry",
+        "CATEGORY": "Mechanical components",
+        "SELLING": [
+            "Blueprint: Caltrops",
+            "Blueprint: Combat Knife",
+            "Blueprint: Crossbow",
+            "Blueprint: Serrated Bolt",
+            "Blueprint: Repair Kit",
+            "Blueprint: Sledgehammer",
+            "Blueprint: Tactical Vest"
+        ],
+        "BUYING": [
+            "Armor parts",
+            "Bags of caltrops",
+            "Blueprints",
+            "Bolts of cloth",
+            "Metal components",
+            "Molds",
+            "Padding",
+            "Pneumatic components",
+            "Repair kits"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            300
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Harold",
+        "LOCATION": "South Gate Station",
+        "CATEGORY": "Mechanical components",
+        "SELLING": [
+            "Blueprint: Bear Trap",
+            "Blueprint: Caltrops",
+            "Blueprint: Combat Knife",
+            "Blueprint: Crossbow",
+            "Blueprint: Serrated Bolt",
+            "Blueprint: Recycle Item",
+            "Blueprint: Repair Kit",
+            "Blueprint: Sledgehammer",
+            "Blueprint: Throwing Knives"
+        ],
+        "BUYING": [
+            "Armor parts",
+            "Bags of caltrops",
+            "Blueprints",
+            "Bolts of cloth",
+            "Metal components",
+            "Molds",
+            "Padding",
+            "Pneumatic components",
+            "Repair kits"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            400
+        ],
+        "CURRENCIES": [
+            " SGS Credits"
+        ]
+    },
+    {
+        "NAME": "Luka",
+        "LOCATION": "Fort Apogee",
+        "CATEGORY": "Mechanical components",
+        "SELLING": [
+            "Minigun motors"
+        ],
+        "BUYING": [
+            "Electronic devices",
+            "Electronic parts",
+            "Metal components"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " United Stations Dollars"
+        ]
+    },
+    {
+        "NAME": "Travis",
+        "LOCATION": "Rail Crossing",
+        "CATEGORY": "Mechanical components",
+        "SELLING": [
+            "Blueprint: Recycle Item",
+            "Blueprint: Repair Kit"
+        ],
+        "BUYING": [
+            "Armor parts",
+            "Batteries",
+            "Blueprints",
+            "Metal components",
+            "Pairs of goggles",
+            "Pneumatic components",
+            "Repair kits"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            150
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Leonie",
+        "LOCATION": "Foundry",
+        "CATEGORY": "Metals",
+        "SELLING": [
+            "Tungsten Steel Plates",
+            "TiChrome Bars (after mine is re-opened)",
+            "TiChrome Crowbar (after mine is re-opened)",
+            "Blueprint: Infused Leather (after mine is re-opened)",
+            "Metal spikes and blades"
+        ],
+        "BUYING": [
+            "Metal components"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            360
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Messer",
+        "LOCATION": "Foundry",
+        "CATEGORY": "Organs",
+        "SELLING": [
+            "Metaworm Gizzard (after completing Kill the Beast quest)",
+            "Shielded Bladeling Eye (after completing Kill the Beast quest)"
+        ],
+        "BUYING": [
+            "Nothing"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Anastasia",
+        "LOCATION": "Fort Apogee",
+        "CATEGORY": "Pharmacy",
+        "SELLING": [
+            "Psionic Mentor: Telekinetic Proxy",
+            "Can potentially sell all non-unique Medicinal Blueprints"
+        ],
+        "BUYING": [
+            "Chemicals",
+            "Medical components",
+            "Medicines"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " United Stations Dollars"
+        ]
+    },
+    {
+        "NAME": "Doc",
+        "LOCATION": "Rail Crossing",
+        "CATEGORY": "Pharmacy",
+        "SELLING": [
+            "Blueprint: Health Hypo",
+            "Psionic Mentor: Enrage",
+            "Psionic Mentor: Psycho-temporal Contraction"
+        ],
+        "BUYING": [
+            "Chemicals",
+            "Medical components",
+            "Medicines"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Estelle",
+        "LOCATION": "Foundry",
+        "CATEGORY": "Pharmacy",
+        "SELLING": [
+            "Blueprint: Advanced Health Hypo",
+            "Blueprint: Health Hypo",
+            "Blueprint: Irongut",
+            "Blueprint: Jumping Bean",
+            "Psionic Mentor: Thermodynamic Destabilization",
+            "Psionic Mentor: Precognition"
+        ],
+        "BUYING": [
+            "Chemicals",
+            "Medical components",
+            "Medicines"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            200
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Fixer",
+        "LOCATION": "Junkyard",
+        "CATEGORY": "Pharmacy",
+        "SELLING": [
+            "Blueprint: Adrenaline Shot",
+            "Blueprint: Chemical Ammo",
+            "Blueprint: Chemical Blob Trap",
+            "Blueprint: Chemical Pistol",
+            "Blueprint: Extract Humour",
+            "Blueprint: Gas Grenade",
+            "Blueprint: Incendiary Grenade",
+            "Blueprint: Morphine Shot",
+            "Catalyzing Belt",
+            "Chemical Pistol Frame",
+            "Chemical Blob Dispenser",
+            "Acid Collector"
+        ],
+        "BUYING": [
+            "Chemical ammo",
+            "Chemical pistols",
+            "Chemicals",
+            "Medical components",
+            "Medicines",
+            "Organs",
+            "Psionic components",
+            "Psionic headbands"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            89
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Fred",
+        "LOCATION": "Camp Hathor",
+        "CATEGORY": "Pharmacy",
+        "SELLING": [
+            "Blueprint: Health Hypo",
+            "Psionic Mentor: Entropic Recurrence"
+        ],
+        "BUYING": [
+            "Chemicals",
+            "Medical components",
+            "Medicines"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Heidi",
+        "LOCATION": "Core City",
+        "CATEGORY": "Pharmacy",
+        "SELLING": [
+            "Blueprint: Advanced Health Hypo",
+            "Blueprint: Focus Stim",
+            "Blueprint: Health Hypo",
+            "Blueprint: Trance",
+            "Psionic Mentor: Telekinetic Proxy",
+            "Psionic Mentor: Temporary Rewind"
+        ],
+        "BUYING": [
+            "Chemicals",
+            "Medical components ",
+            "Medicines"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            250
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Pasquale",
+        "LOCATION": "South Gate Station",
+        "CATEGORY": "Pharmacy",
+        "SELLING": [
+            "Blueprint: Health Hypo",
+            "Blueprint: Psi Booster",
+            "Blueprint: Psi Inhalant",
+            "Vigorous Belt"
+        ],
+        "BUYING": [
+            "Chemicals",
+            "Medical components",
+            "Medicines"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            452
+        ],
+        "CURRENCIES": [
+            " SGS Credits"
+        ]
+    },
+    {
+        "NAME": "Phyllis",
+        "LOCATION": "Oculus",
+        "CATEGORY": "Pharmacy",
+        "SELLING": [
+            "Cigar",
+            "Psionic Mentor: Pseudo-spatial Projection",
+            "Can potentially sell all non-unique Medicinal Blueprints"
+        ],
+        "BUYING": [
+            "Chemicals",
+            "Medical components",
+            "Medicines"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            250
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Jerre Franz",
+        "LOCATION": "Institute of Tchort",
+        "CATEGORY": "Pharmacy",
+        "SELLING": [
+            "Psionic Mentor: Stasis",
+            "Can potentially sell all non-unique Medicinal Blueprints"
+        ],
+        "BUYING": [
+            "Chemicals",
+            "Medical components",
+            "Medicines"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            150
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Kimi",
+        "LOCATION": "Junkyard",
+        "CATEGORY": "Plants",
+        "SELLING": [
+            "Blueprint: Process Plant or Fungus"
+        ],
+        "BUYING": [
+            "Plants and fungi"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            32
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Deacon",
+        "LOCATION": "Rail Crossing",
+        "CATEGORY": "Stealth equipment",
+        "SELLING": [
+            "Blueprint: Balaclava",
+            "Blueprint: Tabi Boots",
+            "Blueprint: Throwing Knives",
+            "Blueprint: Lockpicks (rare)"
+        ],
+        "BUYING": [
+            "Bolts of cloth",
+            "Crossbows",
+            "Firearms",
+            "Melee weapons",
+            "Special bolts",
+            "Tactical vests"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            250
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Jack Quicksilver",
+        "LOCATION": "South Gate Station,Core City",
+        "CATEGORY": "Stealth equipment",
+        "SELLING": [
+            "EMP Grenades"
+        ],
+        "BUYING": [
+            "Balaclavas",
+            "Crossbows",
+            "Lockpicking devices",
+            "Leather armors",
+            "Special bolts"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            100,
+            80
+        ],
+        "CURRENCIES": [
+            " SGS Credits",
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Al Fabet",
+        "LOCATION": "Core City",
+        "CATEGORY": "Useless junk",
+        "SELLING": [
+            "16 Healthy Animal Hearts",
+            "3 Large Intestines",
+            "Human Brain",
+            "Captured Cat",
+            "Hotwiring Kit",
+            "Demon Squid",
+            "Toxic Sludge",
+            "Ghostface (rarely)"
+        ],
+        "BUYING": [
+            "Nothing"
+        ],
+        "SPECIAL": [],
+        "MONEY": [
+            76
+        ],
+        "CURRENCIES": [
+            " Stygian Coins"
+        ]
+    },
+    {
+        "NAME": "Mute Fisherman",
+        "LOCATION": "Random event",
+        "CATEGORY": "Fish",
+        "SELLING": [
+            "Blue Eel (always)",
+            "Minihead (always)",
+            "Yellow Puckerfish (always)",
+            "Anglerfish",
+            "Black Dragon",
+            "Ghostface",
+            "Phantom Jelly",
+            "Pentapus",
+            "Shrimp",
+            "Slackjaw",
+            "Walking Fish"
+        ],
+        "BUYING": [
+            "Nothing"
+        ],
+        "SPECIAL": [],
+        "MONEY": [],
+        "CURRENCIES": []
+    }
+]
